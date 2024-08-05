@@ -1,1 +1,20 @@
-implementation/
+# implementation/
+implementation/dialogpttry3/TODO_11novels_comb
+implementation/dialogpttry3/TODO_11novels_comb_beau
+
+implementation/openaitest
+implementation/openaitest_11novels
+
+**/hf_token.txt
+**/open-ai-key.txt
+
+# Ignore large files
+# To search large files in repo, use this command: find . -type f -size +100M
+implementation/dialogpttry3/TODO_11novels_comb_beau/chroma_db/36e33468-b786-444e-be55-f5ac4552adf0/data_level0.bin
+implementation/dialogpttry3/TODO_11novels_comb_beau/chroma_db/chroma.sqlite3
+implementation/dialogpttry3/TODO_11novels_comb_litesucc/chroma_db/1ef548a3-47e1-4f12-8423-da01066dfaaa/data_level0.bin
+implementation/dialogpttry3/TODO_11novels_comb_litesucc/chroma_db/chroma.sqlite3
+implementation/dialogpttry3/TODO_11novels_comb/chroma_db/1ef548a3-47e1-4f12-8423-da01066dfaaa/data_level0.bin
+implementation/dialogpttry3/TODO_11novels_comb/chroma_db/chroma.sqlite3
+implementation/openaitest/TODO_11novels/chroma_db/chroma.sqlite3
+implementation/openaitest/TODO_11novels/chroma_db/f53fa8cf-e881-4bb8-a4ba-9d91eff79015/data_level0.bin

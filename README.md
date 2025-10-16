@@ -1,3 +1,5 @@
+<img width="1200" height="795" alt="image" src="https://github.com/user-attachments/assets/64fe5288-9199-4cc6-a653-6dd015076bff" />
+
 The report should contain the following broad sections: (i) Introduction, (ii) Methodology (iii) Conclusion 
 
 ## (i) Introduction

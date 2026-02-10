@@ -5,7 +5,7 @@
 
 <img width="847" height="669" alt="image" src="https://github.com/user-attachments/assets/495635bd-09f2-434d-a33c-8a181dd47a04" />
 
-The report should contain the following broad sections: (i) Introduction, (ii) Methodology (iii) Conclusion 
+The report contain the following broad sections: (i) Introduction, (ii) Methodology (iii) Conclusion 
 
 ## (i) Introduction
 
@@ -24,9 +24,7 @@ Then, when I want to use Langchain’s Data Loader function, I need to convert t
 By utilizing a combination of pre-existing datasets and models such as DialoGPT, and Falcon-7b-instruct LLM from Hugging face. We can know that the difference among LLMs can be known as followings: DiagloGPT is a light-weight Language Model and has multiple disadvantages, while Falcon-7b-instruct has a very good performance but need much more computing resources. We can see from the input of Falcon-7b-instruct that if we input Falcon-7b-instruct as: query and well-searched-knowledge, we can get the right answer with the assistance of the searched knowledge from our search system. This search system is originally be built with elastic search and later being replaced by Chroma Vector Database.
 
 ### Topic Analysis:
-For the Topic Analysis, I need to dive deep into what should literatures like novels can be constructed. 
-
-First of all, I need to indexing and embedding the text into vector database. The process of how the vector embedding works can be explained as here: 
+First of all, indexing and embedding the text into vector database. The process of how the vector embedding works can be explained as here: 
 
 
 

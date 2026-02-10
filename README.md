@@ -3,7 +3,16 @@
 <img width="1183" height="507" alt="image" src="https://github.com/user-attachments/assets/b246ee31-d1af-48b8-bc88-a791c48cdd8b" />
 
 
-<img width="847" height="669" alt="image" src="https://github.com/user-attachments/assets/495635bd-09f2-434d-a33c-8a181dd47a04" />
+<p align="center">
+  <img
+    width="596"
+    height="430"
+    alt="image"
+    src="https://github.com/user-attachments/assets/148b7b58-5956-4815-890b-92a878981d65"
+  />
+</p>
+
+
 
 The report contain the following broad sections: (i) Introduction, (ii) Methodology (iii) Conclusion 
 

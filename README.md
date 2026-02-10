@@ -1,3 +1,8 @@
+# End-to-end website deployment on GCP
+
+<img width="1183" height="507" alt="image" src="https://github.com/user-attachments/assets/b246ee31-d1af-48b8-bc88-a791c48cdd8b" />
+
+
 <img width="1200" height="795" alt="image" src="https://github.com/user-attachments/assets/64fe5288-9199-4cc6-a653-6dd015076bff" />
 
 The report should contain the following broad sections: (i) Introduction, (ii) Methodology (iii) Conclusion 

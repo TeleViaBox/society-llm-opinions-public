@@ -3,7 +3,7 @@
 <img width="1183" height="507" alt="image" src="https://github.com/user-attachments/assets/b246ee31-d1af-48b8-bc88-a791c48cdd8b" />
 
 
-<img width="1200" height="795" alt="image" src="https://github.com/user-attachments/assets/64fe5288-9199-4cc6-a653-6dd015076bff" />
+<img width="847" height="669" alt="image" src="https://github.com/user-attachments/assets/495635bd-09f2-434d-a33c-8a181dd47a04" />
 
 The report should contain the following broad sections: (i) Introduction, (ii) Methodology (iii) Conclusion 
 

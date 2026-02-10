@@ -1,4 +1,4 @@
-# End-to-end website deployment on GCP
+# End-to-end Website Deployment (Backend PostgreSQL/ChromaDB (Vector DB, RAG)/REST API + Frontend React.js + LLM Inference) on GCP Cloud Platform (Firewall, Portings, Protocols)
 
 <img width="1183" height="507" alt="image" src="https://github.com/user-attachments/assets/b246ee31-d1af-48b8-bc88-a791c48cdd8b" />
 
